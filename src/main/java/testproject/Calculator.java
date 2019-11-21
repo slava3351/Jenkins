@@ -21,7 +21,7 @@ public class Calculator {
      * @param y Second argument
      * @return Difference between the first and the second number
      */
-    public static string subtract(int x, int y) {
+    public static int subtract(int x, int y) {
         return x - y;
     }
 }
